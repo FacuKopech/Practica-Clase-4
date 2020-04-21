@@ -1,0 +1,6 @@
+C:\Users\facuk\source\repos\PracticaClase4\Logica\bin\Debug\Logica.dll
+C:\Users\facuk\source\repos\PracticaClase4\Logica\bin\Debug\Logica.pdb
+C:\Users\facuk\source\repos\PracticaClase4\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+C:\Users\facuk\source\repos\PracticaClase4\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\facuk\source\repos\PracticaClase4\Logica\obj\Debug\Logica.dll
+C:\Users\facuk\source\repos\PracticaClase4\Logica\obj\Debug\Logica.pdb

@@ -1,0 +1,10 @@
+C:\Users\facuk\source\repos\PracticaClase4\PracticaClase4\obj\Debug\PracticaClase4.csprojAssemblyReference.cache
+C:\Users\facuk\source\repos\PracticaClase4\PracticaClase4\obj\Debug\PracticaClase4.csproj.CoreCompileInputs.cache
+C:\Users\facuk\source\repos\PracticaClase4\PracticaClase4\bin\Debug\PracticaClase4.exe.config
+C:\Users\facuk\source\repos\PracticaClase4\PracticaClase4\bin\Debug\PracticaClase4.exe
+C:\Users\facuk\source\repos\PracticaClase4\PracticaClase4\bin\Debug\PracticaClase4.pdb
+C:\Users\facuk\source\repos\PracticaClase4\PracticaClase4\bin\Debug\Logica.dll
+C:\Users\facuk\source\repos\PracticaClase4\PracticaClase4\bin\Debug\Logica.pdb
+C:\Users\facuk\source\repos\PracticaClase4\PracticaClase4\obj\Debug\PracticaClase4.csproj.CopyComplete
+C:\Users\facuk\source\repos\PracticaClase4\PracticaClase4\obj\Debug\PracticaClase4.exe
+C:\Users\facuk\source\repos\PracticaClase4\PracticaClase4\obj\Debug\PracticaClase4.pdb
