@@ -13,6 +13,8 @@ namespace Logica
 
         public static int CantidadPalabras(this string texto)
         {
+            //return texto.split(' ').Length; //Con esto es suficiente
+
             int cantidad = 0;
             for (int i = 0; i < texto.Length; i++)
             {
@@ -27,6 +29,7 @@ namespace Logica
 
         public static int CantidadPalabras(this string texto, char caracter)
         {
+            //return texto.split(caracter).Length; //Con esto es suficiente
             int cantidad = 0;
             for (int i = 0; i < texto.Length; i++) 
             {
@@ -52,6 +55,7 @@ namespace Logica
         public static decimal PromedioEnteros(this List<int> numeros)
         {
             int suma = 0;
+            //return numeros.Average(); //Con esto es suficiente
 
             foreach (var fila in numeros)
             {
@@ -100,6 +104,7 @@ namespace Logica
 
         public static string Invertir(this string texto)
         {
+            //return texto.Reverse().ToString(); //Con esto es suficiente
             string invertido = null;
             foreach (char letra in texto)
             {
@@ -111,6 +116,7 @@ namespace Logica
 
         public static string ArrayAString(this string[] arreglo, char separador)
         {
+            //return string.Join(separador, arreglo); //Con esto es suficiente
             string cadena = null;
             for (int i = 0; i < arreglo.Length; i++)
             {
@@ -124,8 +130,9 @@ namespace Logica
 
         public static bool ValidarMail(this string email)
         {
-
             Regex r = new Regex(@"^[a-zA-Z\.\-_]+@([a-zA-Z\.\-_]+\.)+[a-zA-Z]{2,4}$");
+
+            //return r.IsMatch(email); //Con esto es suficiente
 
             if (r.IsMatch(email))
             {
@@ -136,6 +143,13 @@ namespace Logica
 
         }
 
+        /// <summary>
+        /// NO se entiende que quisiste hacer aca.
+        /// </summary>
+        /// <param name="numeros"></param>
+        /// <param name="numero1"></param>
+        /// <param name="numero2"></param>
+        /// <returns></returns>
         public static int RestaEnteros(this int numeros, int numero1, int numero2)
         {
             return numero1 - numero2;
